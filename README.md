@@ -1,4 +1,4 @@
-# COE328 Lab 6: Design of a Simple General-Purpose Processor
+# Design of a Simple General-Purpose Processor
 
 This repository contains the VHDL code and files for designing and simulating a simple General-Purpose Processor (GPU) as part of Lab 6 in the COE328 Digital Systems course at Toronto Metropolitan University. The project focuses on constructing an Arithmetic Logic Unit (ALU) capable of performing various arithmetic and logical operations, which are then integrated into a fully functional processor.
 
